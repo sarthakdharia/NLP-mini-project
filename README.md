@@ -5,6 +5,9 @@ Many people avoid  visiting  healthcare  professionals  and  even  treatable dis
 
 Following are the features of our gujarathi healthcare chatbot:
 1.Users can give information about the sickness, symptoms.
+
 2.Users can get the predicted disease name and information on them.
+
 3.Users can get details about disease.
+
 4.Users get home remedies and  medical treatment information for the disease.
